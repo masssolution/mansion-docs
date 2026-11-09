@@ -1,11 +1,11 @@
-const editUrl = 'https://github.com/samuelek25k/mansion-docs/edit/main/';
+const editUrl = 'https://github.com/masssolution/mansion-docs/edit/main/';
 
 module.exports = {
   title: 'Mansion',
   tagline: 'Construction management documentation',
-  url: 'https://samuelek25k.github.io',
+  url: 'https://masssolution.github.io',
   baseUrl: '/mansion-docs/',
-  organizationName: 'samuelek25k',
+  organizationName: 'masssolution',
   projectName: 'mansion-docs',
   trailingSlash: true,
   onBrokenLinks: 'throw',

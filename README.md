@@ -2,7 +2,7 @@
 
 Help guide and product overview for Mansion, a construction management platform.
 
-Live site: https://samuelek25k.github.io/mansion-docs/
+Live site: https://masssolution.github.io/mansion-docs/
 
 ## Local preview
 
