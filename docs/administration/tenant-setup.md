@@ -15,7 +15,7 @@ As the company **Administrator**, you have the master keys to Mansion. You confi
 
 ## Visual Overview
 
-![Regional Compliance and Company Settings](https://cdn.jsdelivr.net/gh/samuelek25k/mansion-docs@main/screenshots/08_tenant_regional_settings.png)
+![Regional Compliance and Company Settings](https://cdn.jsdelivr.net/gh/masssolution/mansion-docs@main/screenshots/08_tenant_regional_settings.png)
 
 ---
 

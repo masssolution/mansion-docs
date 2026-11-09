@@ -17,7 +17,7 @@ Mansion is built from the ground up to be **field-first**. You don't need a bulk
 
 ## Visual Overview
 
-![Mobile Field Experience](https://cdn.jsdelivr.net/gh/samuelek25k/mansion-docs@main/screenshots/06_mobile_experience.png)
+![Mobile Field Experience](https://cdn.jsdelivr.net/gh/masssolution/mansion-docs@main/screenshots/06_mobile_experience.png)
 
 ---
 

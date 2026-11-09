@@ -18,7 +18,7 @@ The **Executive Dashboard** gives your team a real-time pulse on all active buil
 
 ## Visual Overview
 
-![Executive Dashboard](https://cdn.jsdelivr.net/gh/samuelek25k/mansion-docs@main/screenshots/01_executive_dashboard.png)
+![Executive Dashboard](https://cdn.jsdelivr.net/gh/masssolution/mansion-docs@main/screenshots/01_executive_dashboard.png)
 
 ---
 

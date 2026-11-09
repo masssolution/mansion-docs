@@ -17,7 +17,7 @@ The **Projects Directory** is your master index of every building job your compa
 
 ## Visual Overview
 
-![Projects Directory](https://cdn.jsdelivr.net/gh/samuelek25k/mansion-docs@main/screenshots/04_projects_directory.png)
+![Projects Directory](https://cdn.jsdelivr.net/gh/masssolution/mansion-docs@main/screenshots/04_projects_directory.png)
 
 ---
 

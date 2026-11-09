@@ -18,7 +18,7 @@ The **Invoicing & Retainage** module automates this billing, applies regional ta
 
 ## Visual Overview
 
-![Milestone Invoicing and Retainage](https://cdn.jsdelivr.net/gh/samuelek25k/mansion-docs@main/screenshots/05_invoices_retention.png)
+![Milestone Invoicing and Retainage](https://cdn.jsdelivr.net/gh/masssolution/mansion-docs@main/screenshots/05_invoices_retention.png)
 
 ---
 

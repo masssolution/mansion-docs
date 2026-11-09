@@ -22,7 +22,7 @@ The **Subcontracts & Subleasing** module brings these commitments into a single 
 
 ## Visual Overview
 
-![Contracts and Subleasing](https://cdn.jsdelivr.net/gh/samuelek25k/mansion-docs@main/screenshots/07_contracts_subleasing.png)
+![Contracts and Subleasing](https://cdn.jsdelivr.net/gh/masssolution/mansion-docs@main/screenshots/07_contracts_subleasing.png)
 
 ---
 

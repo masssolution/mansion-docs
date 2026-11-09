@@ -17,7 +17,7 @@ Instead of requiring expensive custom programming, Mansion includes a **zero-cod
 
 ## Visual Overview
 
-![Regional Configuration](https://cdn.jsdelivr.net/gh/samuelek25k/mansion-docs@main/screenshots/08_tenant_regional_settings.png)
+![Regional Configuration](https://cdn.jsdelivr.net/gh/masssolution/mansion-docs@main/screenshots/08_tenant_regional_settings.png)
 
 ---
 

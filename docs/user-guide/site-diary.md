@@ -19,7 +19,7 @@ Every single working day, the site supervisor or engineer creates an entry recor
 
 ## Visual Overview
 
-![Daily Site Diary](https://cdn.jsdelivr.net/gh/samuelek25k/mansion-docs@main/screenshots/03_site_diary.png)
+![Daily Site Diary](https://cdn.jsdelivr.net/gh/masssolution/mansion-docs@main/screenshots/03_site_diary.png)
 
 ---
 

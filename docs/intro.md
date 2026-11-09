@@ -21,7 +21,7 @@ Construction projects typically face three operational challenges:
 
 Mansion unifies site operations and financial control into three pillars:
 
-![Mansion Platform Architecture](https://cdn.jsdelivr.net/gh/samuelek25k/mansion-docs@main/screenshots/01_executive_dashboard.png)
+![Mansion Platform Architecture](https://cdn.jsdelivr.net/gh/masssolution/mansion-docs@main/screenshots/01_executive_dashboard.png)
 
 - **💰 Financial Governance**: Live Cost vs Budget Rails, Milestone Invoicing, and Defect Retention Escrow.
 - **🚜 Site Operations**: Change Orders (Scope Variation control), Daily Field Diary & Slump Tests, and Trade Subcontracts.

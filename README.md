@@ -11,4 +11,3 @@ npm ci
 npm start
 ```
 
-See the authoring guide in the site for adding pages, release notes and versions.

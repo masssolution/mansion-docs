@@ -19,7 +19,7 @@ If a client asks you to add an extra bathroom, upgrade floor tiles to Italian ma
 
 ## Visual Overview
 
-![Change Orders Register](https://cdn.jsdelivr.net/gh/samuelek25k/mansion-docs@main/screenshots/02_change_orders.png)
+![Change Orders Register](https://cdn.jsdelivr.net/gh/masssolution/mansion-docs@main/screenshots/02_change_orders.png)
 
 ---
 

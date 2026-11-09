@@ -13,7 +13,7 @@ Mansion uses a **Role-Based Access Control (RBAC)** governance engine. Every tea
 
 ## Governance Roles Overview
 
-![Role-Based Access Governance](https://cdn.jsdelivr.net/gh/samuelek25k/mansion-docs@main/screenshots/08_tenant_regional_settings.png)
+![Role-Based Access Governance](https://cdn.jsdelivr.net/gh/masssolution/mansion-docs@main/screenshots/08_tenant_regional_settings.png)
 
 Mansion structures operational access across five organizational roles:
 
