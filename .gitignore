@@ -2,3 +2,13 @@ node_modules
 build
 .docusaurus
 .cache-loader
+.activity/
+.harness/
+.harness-core.json
+.agents/
+.claude/
+.clinerules
+.cursor/
+.gemini/
+.windsurf/
+.github/copilot-instructions.md
